@@ -27,6 +27,8 @@
 // either expressed or implied, of the FreeBSD Project.
 //
 
+#define AFNETWORKING_2 true
+
 #import "TRGoogleMapsAutocompleteItemsSource.h"
 #ifdef AFNETWORKING_2
 #import "AFHTTPSessionManager.h"
